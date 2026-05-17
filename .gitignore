@@ -9,6 +9,7 @@ backend/target/
 backend/.mvn/
 backend/*.log
 backend/src/main/resources/application-local.yml
+backend/src/main/resources/application.yml
 
 # ===== IDE =====
 .idea/
